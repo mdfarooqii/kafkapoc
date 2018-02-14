@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: kafkapoc
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: faroooq
+Specification-Title: kafkapoc
+Implementation-Vendor-Id: com.ubs.risk.arisk
+Build-Jdk: 1.8.0_51
+Specification-Version: 1.0-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+
